@@ -41,7 +41,7 @@ st.write(filtered_df.head())
 
 
 
-#✅ 2️⃣ Visualizing Temperature Trends
+#2️⃣ Visualizing Temperature Trends
 
 
 
