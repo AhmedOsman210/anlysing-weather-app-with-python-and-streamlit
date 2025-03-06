@@ -3,7 +3,7 @@ import pandas as pd
 
 
 
-# Load the dataset
+#Load the dataset
 df = pd.read_csv("weatherHistory.csv")
 
 # Streamlit App Title
